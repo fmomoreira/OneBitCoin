@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, SafeAreaView} from 'react-native';
+import { StyleSheet, SafeAreaView } from 'react-native';
 import CardCotacoes from './src/components/CardCotacoes/';
 import Grafico from './src/components/Grafico/';
 import Titulo from './src/components/Titulo/'
