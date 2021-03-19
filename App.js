@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor:'#0E0D0D',
     alignItems:'center',
-    paddingTop: Platform.OS === 'android' ? 60: 0,
+    //paddingTop: Platform.OS === 'android' ? 60: 0,
     
   },
 })
