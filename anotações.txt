@@ -1,0 +1,21 @@
+src
+​	HistoryGraphic
+​	--index.js
+​	--style.js
+​	QuotationsList
+​	  QuotationsItems
+​	  --index.js
+​	  --style.js
+​	--index.js
+​	--style.js
+  Title
+    index.js
+    style.js
+  CurrentPrice
+    index.js
+    style.js
+  images
+    logoBiticoin.png
+App.js
+
+
